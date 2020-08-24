@@ -51,6 +51,4 @@ Remember to star the repo if you love the projects~ :wink:
 
 # Want to connect with me ?
 - [LinkedIn](https://www.linkedin.com/in/shubham-garg-03a848190/)
-- [Gmail](shubhamsg123456@gmail.com)
-
-[![](https://img.shields.io/badge/Made%20With%20❤️%20By-shub-garg-red)](https://github.com/shub-garg)
+- Gmail- *shubhamsg123456@gmail.com*
