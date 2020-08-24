@@ -45,10 +45,10 @@ Remember to star the repo if you love the projects~ :wink:
 - Please add your script in the [project's list](https://github.com/shub-garg/Python_Scripts#what-do-we-have) above.
 
 
-# If you like the project:
+# If you like the project :+1::
 - Star the Repo - [Python Scripts](https://github.com/shub-garg/Python_Scripts)
 - Follow me on GitHub - [Shubham Garg](https://github.com/shub-garg)
 
-# Want to connect with me ?
+# Want to connect with me :v:?
 - [LinkedIn](https://www.linkedin.com/in/shubham-garg-03a848190/)
 - Gmail- *shubhamsg123456@gmail.com*
