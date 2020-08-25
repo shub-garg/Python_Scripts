@@ -42,7 +42,7 @@ Remember to star the repo if you love the projects~ :wink:
                 - `source env\bin\activate`
             - `pip freeze > requirements.txt`
 
-- Please add your script in the [project's list](https://github.com/shub-garg/Python_Scripts#what-do-we-have) above.
+- Please add your script in the [project's list](https://github.com/shub-garg/Python_Scripts#List-of-Projects) above.
 
 
 # If you like the project :+1::
