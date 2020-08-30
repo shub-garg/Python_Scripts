@@ -11,10 +11,13 @@ So far, the following projects have been added to this repo:
 
 | Project Name | Contributors |
 |--|--|
-|[Random Password Generator](https://github.com/shub-garg/Python_Scripts/tree/master/Random_Email_Generator)|[Shubham Garg](https://github.com/shub-garg)|
+|[Random Email Generator](https://github.com/shub-garg/Python_Scripts/tree/master/Random_Email_Generator)|[Shubham Garg](https://github.com/shub-garg)|
 |[Google_maps_Coordinates_&_Place_id_Extractor](https://github.com/shub-garg/Python_Scripts/tree/master/Google_maps_Coordinates_%26_Place_id%20Extractor)|[Shubham Garg](https://github.com/shub-garg)|
+|[PYTHON CALCULATOR](https://github.com/shub-garg/Python_Scripts/tree/master/calculator)|[Aman Saxena](https://github.com/amansaxena01)|
+|[Weather_GUI](https://github.com/shub-garg/Python_Scripts/tree/master/Weather%20GUI)|[Saumya Jain](https://github.com/Saumya1503)|
 
-## How to use this repo :
+
+## How to use this repository :
 
 - Clone/Download the directory and navigate to each folder. Or...
 - Simply navigate to the folder and download/copy the scripts! It's *that* simple and easy.
