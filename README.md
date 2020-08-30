@@ -15,7 +15,7 @@ So far, the following projects have been added to this repo:
 |[Google_maps_Coordinates_&_Place_id_Extractor](https://github.com/shub-garg/Python_Scripts/tree/master/Google_maps_Coordinates_%26_Place_id%20Extractor)|[Shubham Garg](https://github.com/shub-garg)|
 |[PYTHON CALCULATOR](https://github.com/shub-garg/Python_Scripts/tree/master/calculator)|[Aman Saxena](https://github.com/amansaxena01)|
 
-## How to use this repo :
+## How to use this repository :
 
 - Clone/Download the directory and navigate to each folder. Or...
 - Simply navigate to the folder and download/copy the scripts! It's *that* simple and easy.
