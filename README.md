@@ -14,7 +14,7 @@ So far, the following projects have been added to this repo:
 |[Random Password Generator](https://github.com/shub-garg/Python_Scripts/tree/master/Random_Email_Generator)|[Shubham Garg](https://github.com/shub-garg)|
 |[Google_maps_Coordinates_&_Place_id_Extractor](https://github.com/shub-garg/Python_Scripts/tree/master/Google_maps_Coordinates_%26_Place_id%20Extractor)|[Shubham Garg](https://github.com/shub-garg)|
 
-## How to use this repo :
+## How to use this repository :
 
 - Clone/Download the directory and navigate to each folder. Or...
 - Simply navigate to the folder and download/copy the scripts! It's *that* simple and easy.
