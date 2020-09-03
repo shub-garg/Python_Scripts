@@ -19,7 +19,7 @@ So far, the following projects have been added to this repo:
 
 ## How to use this repository :
 
-- Clone/Download the directory and navigate to each folder. Or...
+- Clone/Download the directory and navigate to each folder. Or....
 - Simply navigate to the folder and download/copy the scripts! It's *that* simple and easy.
 - Setup virtual environment for that scripts:
     - `python -m venv env`
