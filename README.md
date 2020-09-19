@@ -25,7 +25,7 @@ So far, the following projects have been added to this repo:
     - `source env\bin\activate`
     - `pip install -r requirements.txt`
 
-- Run the script :)
+- Run the script :).
 
 
 Remember to star the repo if you love the projects~ :wink:
