@@ -2,7 +2,7 @@
 ## What is this repository?
 This repository is a compilation of some *extraordinary* Python scripts that somehow help us make our lives easier! Feel free to add your own Scripts here!
 An awesome place for people trying to understand, how to contribute to open source projects!
-Welcome!!!!
+Welcome!!!!!
 
 ## List of Projects:
 
@@ -25,7 +25,7 @@ So far, the following projects have been added to this repo:
     - `source env\bin\activate`
     - `pip install -r requirements.txt`
 
-- Run the script :).
+- Run the script :)
 
 
 Remember to star the repo if you love the projects~ :wink:
