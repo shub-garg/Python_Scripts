@@ -4,7 +4,7 @@ This repository is a compilation of some *extraordinary* Python scripts that som
 An awesome place for people trying to understand, how to contribute to open source projects!
 Welcome!!!!
 
-## List of Projects:
+## List of Projects :
 
 So far, the following projects have been added to this repo:
 
