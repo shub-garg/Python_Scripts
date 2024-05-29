@@ -6,7 +6,7 @@ Welcome!
 
 ## List of Projects :
 
-So far, the following projects have been added to this repository:
+So far, the following projects have been added to this repo:
 
 | Project Name | Contributors |
 |--|--|
